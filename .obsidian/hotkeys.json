@@ -1,0 +1,12 @@
+{
+  "consistent-attachments-and-links:replace-all-wikilinks-with-markdown-links": [],
+  "consistent-attachments-and-links:convert-all-link-paths-to-relative": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}

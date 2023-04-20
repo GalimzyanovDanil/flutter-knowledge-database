@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "_Resources",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    "_Ресурсы/"
+  ]
+}

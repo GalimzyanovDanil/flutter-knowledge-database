@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "#fieldOfExpertise",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 2.02203776041667,
+  "lineSizeMultiplier": 3.55468343098958,
+  "collapse-forces": true,
+  "centerStrength": 0.176025390625,
+  "repelStrength": 6.84977213541667,
+  "linkStrength": 0.715047200520833,
+  "linkDistance": 253,
+  "scale": 0.835420010135209,
+  "close": false
+}

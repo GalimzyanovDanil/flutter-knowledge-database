@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "b871357ba4ac15d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bf376b80c0431d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33f49bd83863528e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d30727588fd033cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2994ee3554bc3cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a72f08b9548a2403",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "3a42c3a84134034a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#package",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01b7bdc9de7b4cfb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebc8e6fd69f0ce2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e553de02a5bec648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95fea1e8d937acc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5591e6399ec0cc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "634f2260dd9e6157",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9709bb7cd002f49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "daily-notes:Сегодняшняя заметка": false
+    }
+  },
+  "active": "33f49bd83863528e",
+  "lastOpenFiles": [
+    "Flutter knowledge database.md",
+    "Computer science/Подтемы/Основные принципы ООП.md",
+    "Computer science/Главные темы/ООП.md",
+    "_Ресурсы/Шаблоны/Подтема.md",
+    "Dart/Подтемы/Бибилиотека RxDart.md",
+    "_Ресурсы/Шаблоны/Главная тема.md",
+    "README.md",
+    "Принцип ведения базы.md",
+    "Native/Native.md",
+    "Flutter/Flutter.md",
+    "Dart/Dart.md",
+    "Computer science/Computer science.md",
+    "Dart/Без названия.canvas",
+    "Dart/Работы/Future.md",
+    "Dart/Содержание/Система типов.md",
+    "Pasted image 20230420164422.png",
+    "Dart/Работы/Продвинутые коллекции.md",
+    "Dart/Работы/Freezed package.md",
+    "Dart/Работы/Dynamic.md",
+    "Dart/Работы/Convert package.md",
+    "Dart/Работы/Json_serializable package.md",
+    "Dart/Работы/Object, Null, Never.md",
+    "Dart/Содержание/Реактивное програмирование.md",
+    "Dart/Работы/RxDart package.md",
+    "Dart/Содержание/Библиотеки Dart.md",
+    "Dart/Работы/Разработка функционала с генерацией кода.md",
+    "Dart/Работы/Стандартные коллекции.md",
+    "Dart/Работы/Collections package.md",
+    "Flutter/Содержание",
+    "Flutter/Работы",
+    "Содержание",
+    "Computer science/Содержание",
+    "Computer science/Работы",
+    "Computer science",
+    "Dart/Содержание/Без названия",
+    "_Ресурсы/Шаблоны",
+    "Dart/Работы",
+    "Без названия.canvas",
+    "_Ресурсы"
+  ]
+}
